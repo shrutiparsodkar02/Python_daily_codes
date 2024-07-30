@@ -1,0 +1,7 @@
+types of operator
+1.Arithmatic operators--->add mul div floordiv sub power 
+2.Relational operators----> >,<,>=,<=,!=,==
+3.Logical operators---->and or not
+4.Bitwise operators---->& | ~ ^ 
+5.Assignment operators---->==
+
